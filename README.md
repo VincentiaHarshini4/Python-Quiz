@@ -28,3 +28,6 @@ This project is ideal for Python beginners who want to practice basic concepts l
    ```bash
    git clone https://github.com/yourusername/python-quiz-app.git
    cd python-quiz-app
+
+2. Run the script:
+     python quiz_app.py
