@@ -1,5 +1,3 @@
-# quiz_app.py
-
 questions = [
     {
         "question": "What is the capital of France?",
